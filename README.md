@@ -7,7 +7,7 @@ Projeto Front-end ReactJS consumindo uma api  do site  https://www.themoviedb.or
 
 
 ## Layout web
-![Web 1](https://github.com/robson3222/consumindo-umapi-com-react/blob/main/topzerafilme.png)
+![Web 1](https://github.com/robson3222/app-Cronometro-em-Reactjs/blob/main/cronometro.png)
 
 
 
