@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Projeto Front-end ReactJS consumindo uma api  do site  https://www.themoviedb.org/
+Projeto Front-end ReactJS 
 
 
 
